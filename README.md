@@ -1,8 +1,9 @@
 # new_project_template
 
 <!-- Badges: replace URLs and slugs to match your repository and services -->
-[![CI](https://github.com/<your-org>/<your-repo>/actions/workflows/ci.yml/badge.svg)](https://github.com/<your-org>/<your-repo>/actions/workflows/ci.yml)
-[![License](https://img.shields.io/github/license/<your-org>/<your-repo>)](LICENSE)
+[![CI](https://github.com/oj-tooth/new_project_template/actions/workflows/ci.yml/badge.svg)](https://github.com/oj-tooth/new_project_template/actions/workflows/ci.yml)
+[![Docs](https://github.com/oj-tooth/new_project_template/actions/workflows/docs.yml/badge.svg)](https://github.com/oj-tooth/new_project_template/actions/workflows/docs.yml)
+[![License](https://img.shields.io/github/license/oj-tooth/new_project_template)](LICENSE)
 <!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) -->
 <!-- [![PyPI version](https://img.shields.io/pypi/v/<your-package>)](https://pypi.org/project/<your-package>/) -->
 
