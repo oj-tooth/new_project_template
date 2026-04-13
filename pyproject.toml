@@ -1,6 +1,6 @@
 [project]
-name = "project_name"
-description = "project_name description ."
+name = "new_project_template"
+description = "new_project_template description ."
 keywords = ["oceanography"]
 classifiers = [
   "Operating System :: OS Independent",
@@ -22,9 +22,17 @@ dependencies = [
   "xarray>=2025.07.1",
   ]
 
+[project.optional-dependencies]
+dev = [
+  "pytest",
+  "pytest-mock",
+  "pytest-cov",
+  "ruff",
+  ]
+
 [project.urls]
-Repository = "https://github.com/<your-org>/<your-repo>"
-Documentation = "https://org.github.io/<your-repo>/"
+Repository = "https://github.com/oj-tooth/new_project_template"
+Documentation = "https://oj-tooth.github.io/new_project_template/"
 
 [build-system]
 build-backend = "setuptools.build_meta"
